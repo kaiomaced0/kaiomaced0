@@ -32,6 +32,6 @@
 - 🔭 I’m currently working on Anjo Branco Transportes(Logistics Company)
 - 🌱 I’m currently learning Information Systems, at UNITINS
 - 💬 Ask me about: Programming Object-oriented, Structure, Java JSF, Java Spring, React Native.
-- 📫 How to reach me: <a href="https://instagram.com/kaiomacedo_m" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+- 📫 How to reach me: <a href="https://instagram.com/kaiomacedo_m" target="_blank"><img src="[https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white](https://www.google.com/url?sa=i&url=https%3A%2F%2Fbr.freepik.com%2Ffotos-vetores-gratis%2Finstagram-icon&psig=AOvVaw350ew3JRHRo-bMLlmCirZ6&ust=1663958011129000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCJD8--eEqfoCFQAAAAAdAAAAABAD)" target="_blank"></a>
   
   </div>
