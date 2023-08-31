@@ -19,7 +19,7 @@
   </a>
   <a href="https://flutter.dev/"><img align="center" alt="Rafa-React" height="30" width="40" src="https://www.svgrepo.com/show/373604/flutter.svg">
   </a>
-  <a href="https://spring.io/"><a href="https://quarkus.io/"><img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
+  <a href="https://spring.io/"><img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
   </a>
     <a href="https://www.python.org/"><img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   </a>
