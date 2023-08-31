@@ -28,8 +28,7 @@
     
   <a href="https://instagram.com/kaiomacedo_m" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">  </a>
   <a href="https://www.linkedin.com/in/kaio-macedo-618b2a21b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">   </a> 
- 
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  
   </did>
 - 🔭 I’m currently working in ATI (Agencia de Tecnologia da Informação, Tocantins), for SEFAZ/EGEFAZ.
 - 🌱 I’m currently learning Flutter and Swift.
