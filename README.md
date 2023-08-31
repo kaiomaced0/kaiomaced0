@@ -11,15 +11,22 @@
 </div>
   
 <div style="display: inline_block" ><br>
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://www.svgrepo.com/show/354245/quarkus-icon.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://www.svgrepo.com/show/353631/dart.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://www.svgrepo.com/show/373604/flutter.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <a href="https://www.java.com/"><img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  </a>
+    <a href="https://quarkus.io/"><img align="center" alt="Rafa-CSS" height="30" width="40" src="https://www.svgrepo.com/show/354245/quarkus-icon.svg">
+  </a>
+  <a href="https://dart.dev/"><img align="center" alt="Rafa-CSS" height="30" width="40" src="https://www.svgrepo.com/show/353631/dart.svg">
+  </a>
+  <a href="https://flutter.dev/"><img align="center" alt="Rafa-React" height="30" width="40" src="https://www.svgrepo.com/show/373604/flutter.svg">
+  </a>
+  <a href="https://spring.io/"><a href="https://quarkus.io/"><img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
+  </a>
+    <a href="https://www.python.org/"><img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  </a>
+    <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"><img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  </a><a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML"><img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  </a><a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS"><img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  </a>
 </div>
   
   ##
