@@ -37,6 +37,9 @@
   <a href="https://www.linkedin.com/in/kaiomacedo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">   </a> 
   
   </did>
+  Principais habilidades:
+  - REST API com Quarkus, Frontend com Flutter. 
+  
 - 🔭 I’m currently working in ATI (Agencia de Tecnologia da Informação, Tocantins), for SEFAZ/EGEFAZ. <br/>
 - 🌱 I’m currently learning Flutter and Swift.<br/>
 - 💬 Ask me about: Programming Object-oriented, Data Structure, API with Java Quarkus, Spring boot, Flutter, JSF with Primefaces our JSF with Spring and Joinfaces.<br/>
