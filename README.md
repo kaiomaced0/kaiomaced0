@@ -15,6 +15,7 @@
   </a>
     <a href="https://quarkus.io/"><img align="center" alt="Rafa-CSS" height="30" width="40" src="https://www.svgrepo.com/show/354245/quarkus-icon.svg">
   </a>
+  <a href="https://angular.io/"><img  align="center" height="40" width="40"  src="https://angular.io/assets/images/logos/angular/angular.png"></a>
   <a href="https://dart.dev/"><img align="center" alt="Rafa-CSS" height="30" width="40" src="https://www.svgrepo.com/show/353631/dart.svg">
   </a>
   <a href="https://flutter.dev/"><img align="center" alt="Rafa-React" height="30" width="40" src="https://www.svgrepo.com/show/373604/flutter.svg">
@@ -38,11 +39,11 @@
   
   </did>
   Principais habilidades:
-  - REST API com Quarkus, Frontend com Flutter. 
+  - REST API with Quarkus, Frontend Flutter and Angular. 
   
-- 🔭 I’m currently working in ATI (Agencia de Tecnologia da Informação, Tocantins), for SEFAZ/EGEFAZ. <br/>
-- 🌱 I’m currently learning Flutter and Swift.<br/>
-- 💬 Ask me about: Programming Object-oriented, Data Structure, API with Java Quarkus, Spring boot, Flutter, JSF with Primefaces our JSF with Spring and Joinfaces.<br/>
-- 📫 How to reach me:  <a href="https://instagram.com/kaiomacedo_m" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/06c46459e7947c8a25f72798af696d66e202ac39/topics/instagram/instagram.png" target="_blank" height="32" width="32"></a>   <a href="https://wa.me/5563984142982" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/3992/3992601.png" height="32" width="32">  </a>
+- 🔭 I’m currently working in SEFAZ - Tocantins. <br/>
+- 🌱 I’m currently learning Adaptive User Interface.<br/>
+- 💬 Ask me about: Data Structure, Java, Quarkus, Spring boot, Flutter, Angular, JSF with Primefaces and Joinfaces.<br/>
+- 📫 How to reach me: <a href="https://instagram.com/kaiomacedo_m" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/06c46459e7947c8a25f72798af696d66e202ac39/topics/instagram/instagram.png" target="_blank" height="32" width="32"></a>   <a href="https://wa.me/5563984142982" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/3992/3992601.png" height="32" width="32">  </a>
   
   </div>
