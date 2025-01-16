@@ -5,8 +5,8 @@
   <a href="https://github.com/kaiomaced0"  >
     <br/>
   <div >
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kaiomaced0&show_icons=true&theme=light"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaiomaced0&layout=compact&langs_count=7&theme=dark"/>
+    <img height="190em" src="https://github-readme-stats.vercel.app/api?username=kaiomaced0&show_icons=true&theme=dark"/>
+  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaiomaced0&layout=compact&langs_count=7&theme=dark"/>
  </div>
 </div>
   
